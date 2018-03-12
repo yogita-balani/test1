@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi hello from this side
+=======
+what's happening hjhjkbdkjhdcsjgkdcjs?
+>>>>>>> 236a8d3dc09ea0c26e86fdaaddeda7b95fcb622e
